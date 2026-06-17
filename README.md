@@ -12,7 +12,7 @@ Double-click the `.ablx` file with Live Beta open (Developer Mode enabled in Pre
 
 ## Usage
 
-Right-click on a MIDI track (clip view or arrangement view) containing a Meld → search in extension menu: ***Soulreaktive - Meld Randomizer*** → Start Randomize Meld
+Right-click on a MIDI track (clip view or arrangement view) containing a Meld → search in extension menu: ***Soulreaktive - MeldRandomizer*** → Start Randomize Meld
 
 ## What gets randomized
 
